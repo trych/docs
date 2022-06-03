@@ -1,10 +1,13 @@
 {
-  "name": "just-the-docs",
-  "version": "0.2.4",
-  "description": "A modern Jekyll theme for documentation",
-  "repository": "pmarsceill/just-the-docs",
+  "name": "@swup/docs",
+  "version": "1.0.0",
+  "description": "Official swup docs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swup/docs.git"
+  },
   "license": "MIT",
-  "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
+  "bugs": "https://github.com/swup/docs/issues",
   "devDependencies": {
     "@swup/cli": "^4.0.3",
     "http-server": "^0.12.1",
